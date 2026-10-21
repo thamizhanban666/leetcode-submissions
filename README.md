@@ -11,6 +11,7 @@ Submissions on leetcode
 | [0217-contains-duplicate](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,5 @@ Submissions on leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/thamizhanban666/leetcode-submissions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
